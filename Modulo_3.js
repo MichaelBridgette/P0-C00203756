@@ -1,6 +1,8 @@
 /*! Modulo_3 v0.0.0 - MIT license */
 'use strict';
 
+/*Hello this is improved!*/
+
 var Modulo_3 = function (number) {
   // your code goes here
   return number % 3;
